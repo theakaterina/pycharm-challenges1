@@ -1,17 +1,15 @@
-from test_helper import run_common_tests, failed, passed, get_answer_placeholders
+from test_helper import run_common_tests, failed, passed, get_file_output
 
 
-def test_answer_placeholders():
-    placeholders = get_answer_placeholders()
-    placeholder = placeholders[0]
-    if placeholder == "":  # TODO: your condition here
+def check_answers(answer):
+    if answer == ['True True True True True True']:
         passed()
     else:
-        failed()
+        failed("Something isn't True!")
 
 
 if __name__ == '__main__':
     run_common_tests()
-    # test_answer_placeholders()       # TODO: uncomment test call
-
+    attempt = get_file_output()
+    check_answers(attempt)
 
