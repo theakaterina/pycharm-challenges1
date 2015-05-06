@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCProjectService">
+    <course>
+      <option name="author" value="Thea Koutsoukis" />
+      <option name="description" value="A couple of exercises to explore using loops, definiing functions and user input" />
+      <option name="name" value="Challenge Set 1" />
+      <option name="lessons">
+        <list>
+          <Lesson>
+            <option name="index" value="1" />
+            <option name="name" value="99 Bottles" />
+            <option name="task_list">
+              <list>
+                <Task>
+                  <option name="index" value="1" />
+                  <option name="name" value="Range" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="1" />
+                </Task>
+                <Task>
+                  <option name="index" value="2" />
+                  <option name="name" value="For loops" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="2" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="2" />
+                </Task>
+                <Task>
+                  <option name="index" value="3" />
+                  <option name="name" value="If-else statements" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="3" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="3" />
+                </Task>
+                <Task>
+                  <option name="index" value="4" />
+                  <option name="name" value="Sing for me" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="4" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="4" />
+                </Task>
+              </list>
+            </option>
+            <option name="myIndex" value="1" />
+            <option name="myTasksMap">
+              <map>
+                <entry key="task1">
+                  <value>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Range" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task2">
+                  <value>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="For loops" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task3">
+                  <value>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="If-else statements" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task4">
+                  <value>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Sing for me" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </Lesson>
+          <Lesson>
+            <option name="index" value="2" />
+            <option name="name" value="Pythagorean Triangles" />
+            <option name="task_list">
+              <list>
+                <Task>
+                  <option name="index" value="1" />
+                  <option name="name" value="Defining Functions" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="1" />
+                </Task>
+                <Task>
+                  <option name="index" value="2" />
+                  <option name="name" value="User Input" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="2" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="2" />
+                </Task>
+                <Task>
+                  <option name="index" value="3" />
+                  <option name="name" value="The Maths" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="3" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="3" />
+                </Task>
+                <Task>
+                  <option name="index" value="4" />
+                  <option name="name" value="Putting it all together" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="4" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="4" />
+                </Task>
+              </list>
+            </option>
+            <option name="myIndex" value="2" />
+            <option name="myTasksMap">
+              <map>
+                <entry key="task1">
+                  <value>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Defining Functions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task2">
+                  <value>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="User Input" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task3">
+                  <value>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="The Maths" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task4">
+                  <value>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Putting it all together" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </Lesson>
+          <Lesson>
+            <option name="index" value="3" />
+            <option name="name" value="Higher or Lower" />
+            <option name="task_list">
+              <list />
+            </option>
+            <option name="myIndex" value="3" />
+            <option name="myTasksMap">
+              <map />
+            </option>
+          </Lesson>
+        </list>
+      </option>
+      <option name="description" value="A couple of exercises to explore using loops, definiing functions and user input" />
+      <option name="name" value="Challenge Set 1" />
+      <option name="author" value="Thea Koutsoukis" />
+      <option name="myLessonsMap">
+        <map>
+          <entry key="lesson1">
+            <value>
+              <Lesson>
+                <option name="index" value="1" />
+                <option name="name" value="99 Bottles" />
+                <option name="task_list">
+                  <list>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Range" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="For loops" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="If-else statements" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Sing for me" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
+                  </list>
+                </option>
+                <option name="myIndex" value="1" />
+                <option name="myTasksMap">
+                  <map>
+                    <entry key="task1">
+                      <value>
+                        <Task>
+                          <option name="index" value="1" />
+                          <option name="name" value="Range" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task2">
+                      <value>
+                        <Task>
+                          <option name="index" value="2" />
+                          <option name="name" value="For loops" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="2" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="2" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task3">
+                      <value>
+                        <Task>
+                          <option name="index" value="3" />
+                          <option name="name" value="If-else statements" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="3" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="3" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task4">
+                      <value>
+                        <Task>
+                          <option name="index" value="4" />
+                          <option name="name" value="Sing for me" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="4" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="4" />
+                        </Task>
+                      </value>
+                    </entry>
+                  </map>
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+          <entry key="lesson2">
+            <value>
+              <Lesson>
+                <option name="index" value="2" />
+                <option name="name" value="Pythagorean Triangles" />
+                <option name="task_list">
+                  <list>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Defining Functions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="User Input" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="The Maths" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Putting it all together" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
+                  </list>
+                </option>
+                <option name="myIndex" value="2" />
+                <option name="myTasksMap">
+                  <map>
+                    <entry key="task1">
+                      <value>
+                        <Task>
+                          <option name="index" value="1" />
+                          <option name="name" value="Defining Functions" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task2">
+                      <value>
+                        <Task>
+                          <option name="index" value="2" />
+                          <option name="name" value="User Input" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="2" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="2" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task3">
+                      <value>
+                        <Task>
+                          <option name="index" value="3" />
+                          <option name="name" value="The Maths" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="3" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="3" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task4">
+                      <value>
+                        <Task>
+                          <option name="index" value="4" />
+                          <option name="name" value="Putting it all together" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="4" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="4" />
+                        </Task>
+                      </value>
+                    </entry>
+                  </map>
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+          <entry key="lesson3">
+            <value>
+              <Lesson>
+                <option name="index" value="3" />
+                <option name="name" value="Higher or Lower" />
+                <option name="task_list">
+                  <list />
+                </option>
+                <option name="myIndex" value="3" />
+                <option name="myTasksMap">
+                  <map />
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+        </map>
+      </option>
+    </course>
+  </component>
+</project>
