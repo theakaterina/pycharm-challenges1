@@ -11,8 +11,8 @@ lyric6 = " bottle of beer. You take it down, pass it around, go to the store and
 
 for i in range(99, 0, -1):
     if i > 2:
-        print str(i) + lyric1 + str(i) + lyric2 + str(i-1) + lyric3
+        print i, lyric1, i, lyric2, i - 1, lyric3
     elif i == 2:
-        print str(i) + lyric1 + str(i) + lyric2 + str(i-1) + lyric4
+        print i, lyric1, i, lyric2, i - 1, lyric4
     else:
-        print str(i) + lyric5 + str(i) + lyric6
+        print i, lyric5, i, lyric6

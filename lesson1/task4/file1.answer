@@ -1,1 +1,9 @@
-# TODO: type solution here
+bikes = 5
+people = 7
+
+if bikes == people:
+    print "Yes! Let's ride bikes"
+elif bikes < people:
+    print "Damn. Not enough bikes"
+else:
+    print "Should we leave bikes behind? I can't decide."
