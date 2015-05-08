@@ -217,7 +217,7 @@
                 </Task>
                 <Task>
                   <option name="index" value="4" />
-                  <option name="name" value="If-else statements" />
+                  <option name="name" value="If/else Statements" />
                   <option name="task_files">
                     <map>
                       <entry key="ifelse.py">
@@ -272,14 +272,14 @@
                   <option name="name" value="Sing for me" />
                   <option name="task_files">
                     <map>
-                      <entry key="file1.py">
+                      <entry key="song.py">
                         <value>
                           <TaskFile>
                             <option name="task_windows">
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="21" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="11" />
                                   <option name="replacementLength" value="26" />
                                   <option name="start" value="0" />
@@ -288,14 +288,14 @@
                                   <option name="start" value="0" />
                                   <option name="hint" value="lesson1task5file1_1" />
                                   <option name="possible_answer" value="for i in range(99, 0, -1):" />
-                                  <option name="length" value="21" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="which loop goes here?" />
                                   <option name="myReplacementLength" value="26" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="41" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="12" />
                                   <option name="replacementLength" value="171" />
                                   <option name="start" value="4" />
@@ -304,7 +304,7 @@
                                   <option name="start" value="4" />
                                   <option name="hint" value="lesson1task5file1_2" />
                                   <option name="possible_answer" value="if i &gt; 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric3&#10;    elif i == 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric4&#10;    else:&#10;        print i, lyric5, i, lyric6" />
-                                  <option name="length" value="41" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="How many different conditions do we need?" />
                                   <option name="myReplacementLength" value="171" />
                                   <option name="myIndex" value="2" />
@@ -543,7 +543,7 @@
                   <value>
                     <Task>
                       <option name="index" value="4" />
-                      <option name="name" value="If-else statements" />
+                      <option name="name" value="If/else Statements" />
                       <option name="task_files">
                         <map>
                           <entry key="ifelse.py">
@@ -602,14 +602,14 @@
                       <option name="name" value="Sing for me" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="song.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="26" />
                                       <option name="start" value="0" />
@@ -618,14 +618,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" value="lesson1task5file1_1" />
                                       <option name="possible_answer" value="for i in range(99, 0, -1):" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="which loop goes here?" />
                                       <option name="myReplacementLength" value="26" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="41" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="12" />
                                       <option name="replacementLength" value="171" />
                                       <option name="start" value="4" />
@@ -634,7 +634,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task5file1_2" />
                                       <option name="possible_answer" value="if i &gt; 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric3&#10;    elif i == 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric4&#10;    else:&#10;        print i, lyric5, i, lyric6" />
-                                      <option name="length" value="41" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="How many different conditions do we need?" />
                                       <option name="myReplacementLength" value="171" />
                                       <option name="myIndex" value="2" />
@@ -1193,7 +1193,7 @@
                     </Task>
                     <Task>
                       <option name="index" value="4" />
-                      <option name="name" value="If-else statements" />
+                      <option name="name" value="If/else Statements" />
                       <option name="task_files">
                         <map>
                           <entry key="ifelse.py">
@@ -1248,14 +1248,14 @@
                       <option name="name" value="Sing for me" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="song.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="26" />
                                       <option name="start" value="0" />
@@ -1264,14 +1264,14 @@
                                       <option name="start" value="0" />
                                       <option name="hint" value="lesson1task5file1_1" />
                                       <option name="possible_answer" value="for i in range(99, 0, -1):" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="which loop goes here?" />
                                       <option name="myReplacementLength" value="26" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="41" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="12" />
                                       <option name="replacementLength" value="171" />
                                       <option name="start" value="4" />
@@ -1280,7 +1280,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task5file1_2" />
                                       <option name="possible_answer" value="if i &gt; 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric3&#10;    elif i == 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric4&#10;    else:&#10;        print i, lyric5, i, lyric6" />
-                                      <option name="length" value="41" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="How many different conditions do we need?" />
                                       <option name="myReplacementLength" value="171" />
                                       <option name="myIndex" value="2" />
@@ -1519,7 +1519,7 @@
                       <value>
                         <Task>
                           <option name="index" value="4" />
-                          <option name="name" value="If-else statements" />
+                          <option name="name" value="If/else Statements" />
                           <option name="task_files">
                             <map>
                               <entry key="ifelse.py">
@@ -1578,14 +1578,14 @@
                           <option name="name" value="Sing for me" />
                           <option name="task_files">
                             <map>
-                              <entry key="file1.py">
+                              <entry key="song.py">
                                 <value>
                                   <TaskFile>
                                     <option name="task_windows">
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="21" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="11" />
                                           <option name="replacementLength" value="26" />
                                           <option name="start" value="0" />
@@ -1594,14 +1594,14 @@
                                           <option name="start" value="0" />
                                           <option name="hint" value="lesson1task5file1_1" />
                                           <option name="possible_answer" value="for i in range(99, 0, -1):" />
-                                          <option name="length" value="21" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="which loop goes here?" />
                                           <option name="myReplacementLength" value="26" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="41" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="12" />
                                           <option name="replacementLength" value="171" />
                                           <option name="start" value="4" />
@@ -1610,7 +1610,7 @@
                                           <option name="start" value="4" />
                                           <option name="hint" value="lesson1task5file1_2" />
                                           <option name="possible_answer" value="if i &gt; 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric3&#10;    elif i == 2:&#10;        print i, lyric1, i, lyric2, i - 1, lyric4&#10;    else:&#10;        print i, lyric5, i, lyric6" />
-                                          <option name="length" value="41" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="How many different conditions do we need?" />
                                           <option name="myReplacementLength" value="171" />
                                           <option name="myIndex" value="2" />
