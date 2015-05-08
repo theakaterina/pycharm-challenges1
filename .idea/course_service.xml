@@ -220,30 +220,14 @@
                   <option name="name" value="If-else statements" />
                   <option name="task_files">
                     <map>
-                      <entry key="file1.py">
+                      <entry key="ifelse.py">
                         <value>
                           <TaskFile>
                             <option name="task_windows">
                               <list>
                                 <TaskWindow>
-                                  <option name="index" value="1" />
-                                  <option name="length" value="1" />
-                                  <option name="line" value="3" />
-                                  <option name="replacementLength" value="2" />
-                                  <option name="start" value="9" />
-                                  <option name="taskText" value=" " />
-                                  <option name="line" value="3" />
-                                  <option name="start" value="9" />
-                                  <option name="hint" />
-                                  <option name="possible_answer" value="==" />
-                                  <option name="length" value="1" />
-                                  <option name="myTaskText" value=" " />
-                                  <option name="myReplacementLength" value="2" />
-                                  <option name="myIndex" value="1" />
-                                </TaskWindow>
-                                <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="1" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="4" />
                                   <option name="replacementLength" value="23" />
                                   <option name="start" value="10" />
@@ -252,10 +236,26 @@
                                   <option name="start" value="10" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="&quot;Yes! Let's ride bikes&quot;" />
-                                  <option name="length" value="1" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value=" " />
                                   <option name="myReplacementLength" value="23" />
                                   <option name="myIndex" value="2" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="3" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="6" />
+                                  <option name="replacementLength" value="119" />
+                                  <option name="start" value="0" />
+                                  <option name="taskText" value=" " />
+                                  <option name="line" value="6" />
+                                  <option name="start" value="0" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="elif bikes &lt; people:&#10;    print &quot;Damn. Not enough bikes&quot;&#10;else:&#10;    print &quot;Should we leave bikes behind? I can't decide.&quot;" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value=" " />
+                                  <option name="myReplacementLength" value="119" />
+                                  <option name="myIndex" value="3" />
                                 </TaskWindow>
                               </list>
                             </option>
@@ -546,30 +546,14 @@
                       <option name="name" value="If-else statements" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="ifelse.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
                                   <list>
                                     <TaskWindow>
-                                      <option name="index" value="1" />
-                                      <option name="length" value="1" />
-                                      <option name="line" value="3" />
-                                      <option name="replacementLength" value="2" />
-                                      <option name="start" value="9" />
-                                      <option name="taskText" value=" " />
-                                      <option name="line" value="3" />
-                                      <option name="start" value="9" />
-                                      <option name="hint" />
-                                      <option name="possible_answer" value="==" />
-                                      <option name="length" value="1" />
-                                      <option name="myTaskText" value=" " />
-                                      <option name="myReplacementLength" value="2" />
-                                      <option name="myIndex" value="1" />
-                                    </TaskWindow>
-                                    <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="23" />
                                       <option name="start" value="10" />
@@ -578,10 +562,26 @@
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;Yes! Let's ride bikes&quot;" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="23" />
                                       <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="119" />
+                                      <option name="start" value="0" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="0" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="elif bikes &lt; people:&#10;    print &quot;Damn. Not enough bikes&quot;&#10;else:&#10;    print &quot;Should we leave bikes behind? I can't decide.&quot;" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="119" />
+                                      <option name="myIndex" value="3" />
                                     </TaskWindow>
                                   </list>
                                 </option>
@@ -1196,30 +1196,14 @@
                       <option name="name" value="If-else statements" />
                       <option name="task_files">
                         <map>
-                          <entry key="file1.py">
+                          <entry key="ifelse.py">
                             <value>
                               <TaskFile>
                                 <option name="task_windows">
                                   <list>
                                     <TaskWindow>
-                                      <option name="index" value="1" />
-                                      <option name="length" value="1" />
-                                      <option name="line" value="3" />
-                                      <option name="replacementLength" value="2" />
-                                      <option name="start" value="9" />
-                                      <option name="taskText" value=" " />
-                                      <option name="line" value="3" />
-                                      <option name="start" value="9" />
-                                      <option name="hint" />
-                                      <option name="possible_answer" value="==" />
-                                      <option name="length" value="1" />
-                                      <option name="myTaskText" value=" " />
-                                      <option name="myReplacementLength" value="2" />
-                                      <option name="myIndex" value="1" />
-                                    </TaskWindow>
-                                    <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="4" />
                                       <option name="replacementLength" value="23" />
                                       <option name="start" value="10" />
@@ -1228,10 +1212,26 @@
                                       <option name="start" value="10" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="&quot;Yes! Let's ride bikes&quot;" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value=" " />
                                       <option name="myReplacementLength" value="23" />
                                       <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="119" />
+                                      <option name="start" value="0" />
+                                      <option name="taskText" value=" " />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="0" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="elif bikes &lt; people:&#10;    print &quot;Damn. Not enough bikes&quot;&#10;else:&#10;    print &quot;Should we leave bikes behind? I can't decide.&quot;" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value=" " />
+                                      <option name="myReplacementLength" value="119" />
+                                      <option name="myIndex" value="3" />
                                     </TaskWindow>
                                   </list>
                                 </option>
@@ -1522,30 +1522,14 @@
                           <option name="name" value="If-else statements" />
                           <option name="task_files">
                             <map>
-                              <entry key="file1.py">
+                              <entry key="ifelse.py">
                                 <value>
                                   <TaskFile>
                                     <option name="task_windows">
                                       <list>
                                         <TaskWindow>
-                                          <option name="index" value="1" />
-                                          <option name="length" value="1" />
-                                          <option name="line" value="3" />
-                                          <option name="replacementLength" value="2" />
-                                          <option name="start" value="9" />
-                                          <option name="taskText" value=" " />
-                                          <option name="line" value="3" />
-                                          <option name="start" value="9" />
-                                          <option name="hint" />
-                                          <option name="possible_answer" value="==" />
-                                          <option name="length" value="1" />
-                                          <option name="myTaskText" value=" " />
-                                          <option name="myReplacementLength" value="2" />
-                                          <option name="myIndex" value="1" />
-                                        </TaskWindow>
-                                        <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="1" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="4" />
                                           <option name="replacementLength" value="23" />
                                           <option name="start" value="10" />
@@ -1554,10 +1538,26 @@
                                           <option name="start" value="10" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="&quot;Yes! Let's ride bikes&quot;" />
-                                          <option name="length" value="1" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value=" " />
                                           <option name="myReplacementLength" value="23" />
                                           <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="3" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="6" />
+                                          <option name="replacementLength" value="119" />
+                                          <option name="start" value="0" />
+                                          <option name="taskText" value=" " />
+                                          <option name="line" value="6" />
+                                          <option name="start" value="0" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="elif bikes &lt; people:&#10;    print &quot;Damn. Not enough bikes&quot;&#10;else:&#10;    print &quot;Should we leave bikes behind? I can't decide.&quot;" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value=" " />
+                                          <option name="myReplacementLength" value="119" />
+                                          <option name="myIndex" value="3" />
                                         </TaskWindow>
                                       </list>
                                     </option>

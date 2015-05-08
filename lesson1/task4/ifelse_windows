@@ -1,0 +1,5 @@
+#educational_plugin_window = "Yes! Let's ride bikes"
+#educational_plugin_window = elif bikes <people:
+    print "Damn. Not enough bikes"
+else:
+    print "Should we leave bikes behind? I can't decide."
