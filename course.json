@@ -1,0 +1,290 @@
+{
+  "lessons": [
+    {
+      "name": "99 Bottles",
+      "task_list": [
+        {
+          "name": "Range",
+          "task_files": {
+            "range.py": {
+              "task_windows": [
+                {
+                  "line": 1,
+                  "start": 13,
+                  "possible_answer": "range(1, 21)",
+                  "length": 0
+                },
+                {
+                  "line": 4,
+                  "start": 16,
+                  "possible_answer": "range(0, 31, 2)",
+                  "length": 0
+                },
+                {
+                  "line": 7,
+                  "start": 18,
+                  "possible_answer": "range(99, 0, -1)",
+                  "length": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "For loops",
+          "task_files": {
+            "for.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 4,
+                  "possible_answer": "i",
+                  "length": 1
+                },
+                {
+                  "line": 3,
+                  "start": 7,
+                  "possible_answer": "range(1, 10):",
+                  "length": 1
+                },
+                {
+                  "line": 4,
+                  "start": 17,
+                  "hint": "lesson1task2file1_1",
+                  "possible_answer": "*\u003d i",
+                  "length": 1
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Comparison Operators",
+          "task_files": {
+            "compare.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 16,
+                  "hint": "lesson1task3compare_7",
+                  "possible_answer": "\u003d\u003d",
+                  "length": 2
+                },
+                {
+                  "line": 4,
+                  "start": 12,
+                  "possible_answer": "\u003c",
+                  "length": 2
+                },
+                {
+                  "line": 6,
+                  "start": 20,
+                  "possible_answer": "\u003d\u003d",
+                  "length": 2
+                },
+                {
+                  "line": 8,
+                  "start": 20,
+                  "possible_answer": "!\u003d",
+                  "length": 2
+                },
+                {
+                  "line": 10,
+                  "start": 15,
+                  "possible_answer": "\u003e",
+                  "length": 2
+                },
+                {
+                  "line": 12,
+                  "start": 25,
+                  "possible_answer": "\u003d\u003d",
+                  "length": 2
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "If/else Statements",
+          "task_files": {
+            "ifelse.py": {
+              "task_windows": [
+                {
+                  "line": 4,
+                  "start": 8,
+                  "possible_answer": "\"Yes! Let\u0027s ride bikes\"",
+                  "length": 1
+                },
+                {
+                  "line": 6,
+                  "start": 0,
+                  "possible_answer": "elif bikes \u003c people:\n    print \"Damn. Not enough bikes\"\nelse:\n    print \"Should we leave bikes behind? I can\u0027t decide.\"",
+                  "length": 0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Sing for me",
+          "task_files": {
+            "song.py": {
+              "task_windows": [
+                {
+                  "line": 11,
+                  "start": 0,
+                  "hint": "lesson1task5file1_1",
+                  "possible_answer": "for i in range(99, 0, -1):",
+                  "length": 21
+                },
+                {
+                  "line": 12,
+                  "start": 4,
+                  "hint": "lesson1task5file1_2",
+                  "possible_answer": "if i \u003e 2:\n        print i, lyric1, i, lyric2, i - 1, lyric3\n    elif i \u003d\u003d 2:\n        print i, lyric1, i, lyric2, i - 1, lyric4\n    else:\n        print i, lyric5, i, lyric6",
+                  "length": 41
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Higher or Lower",
+      "task_list": [
+        {
+          "name": "While loops",
+          "task_files": {
+            "while.py": {
+              "task_windows": [
+                {
+                  "line": 4,
+                  "start": 4,
+                  "hint": "lesson2task1while_2",
+                  "possible_answer": "score +\u003d 1",
+                  "length": 22
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Casting variables",
+          "task_files": {
+            "cast.py": {
+              "task_windows": [
+                {
+                  "line": 3,
+                  "start": 14,
+                  "possible_answer": "float(x) for x in odd_integers",
+                  "length": 24
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "User Input",
+          "task_files": {
+            "user.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 0,
+                  "possible_answer": "variable1",
+                  "length": 8
+                },
+                {
+                  "line": 2,
+                  "start": 11,
+                  "possible_answer": "raw_input()",
+                  "length": 10
+                },
+                {
+                  "line": 4,
+                  "start": 0,
+                  "possible_answer": "variable2",
+                  "length": 8
+                },
+                {
+                  "line": 4,
+                  "start": 11,
+                  "possible_answer": "raw_input()",
+                  "length": 10
+                },
+                {
+                  "line": 6,
+                  "start": 0,
+                  "possible_answer": "variable3",
+                  "length": 8
+                },
+                {
+                  "line": 6,
+                  "start": 11,
+                  "possible_answer": "raw_input()",
+                  "length": 10
+                },
+                {
+                  "line": 8,
+                  "start": 6,
+                  "possible_answer": "answers",
+                  "length": 7
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Guess the number",
+          "task_files": {
+            "higherorlower.py": {
+              "task_windows": [
+                {
+                  "line": 5,
+                  "start": 12,
+                  "possible_answer": "True",
+                  "length": 1
+                },
+                {
+                  "line": 8,
+                  "start": 6,
+                  "hint": "lesson2task4higherorlower_7",
+                  "possible_answer": "not_correct",
+                  "length": 2
+                },
+                {
+                  "line": 9,
+                  "start": 14,
+                  "possible_answer": "raw_input(\"Guess a number between 1 and 100: \")",
+                  "length": 23
+                },
+                {
+                  "line": 10,
+                  "start": 7,
+                  "possible_answer": "int(attempt) \u003d\u003d answer",
+                  "length": 3
+                },
+                {
+                  "line": 13,
+                  "start": 6,
+                  "possible_answer": "int(attempt) \u003c\u003d answer:",
+                  "length": 2
+                },
+                {
+                  "line": 16,
+                  "start": 0,
+                  "possible_answer": "print \"Lower\"",
+                  "length": 0
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "description": "A couple of exercises to explore using loops and user input",
+  "name": "Challenge Set 1",
+  "author": "Thea Koutsoukis"
+}
