@@ -1,4 +1,15 @@
 <html>
-Write your task text here.
-<br>
+Now it's all well and good to only have the computer interact with itself, but often we want the user
+to be able to interact with our program! <br>
+The function we will be using is <b>raw_input(prompt)</b>.
+There is another function, <b>input()</b>, that does work (and if you're using Python 3 that's what you'd use)
+but in Python 2 it should not be used for input from general users.
+It interprets any input as Python code which is both a security risk and not the sort of input you want.<br><br>
+So how do we use raw_input()? We create a variable to store the input the user gives us, and set it equal to
+raw_input("Message you want to give to the user"). The input will be stored as a string. If you want it to
+be stored as anything else, cast the variable as another type.<br>
+For example,<br>
+name = raw_input("What is your name?") <br>
+age = int(raw_input("How old are you?")) <br><br>
+For this task, ask the user a series of questions and print out the answers.
 </html>

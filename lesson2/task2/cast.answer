@@ -1,0 +1,6 @@
+# List of the odd numbers from 1 to 31
+odd_integers = range(1, 32, 2)
+
+odd_floats = [float(x) for x in odd_integers]
+
+print odd_floats

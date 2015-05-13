@@ -1,0 +1,17 @@
+from random import randint
+
+answer = randint(1, 100)
+
+# Boolean called not_correct. It should be True when the user is not right, and False when the user is right
+not_correct = True
+
+# Remember, don't create an infinite loop.
+while not_correct:
+    attempt = raw_input("Guess a number between 1 and 100: ")
+    if int(attempt) == answer:
+        print "You win!"
+        not_correct = False
+    elif int(attempt) < answer:
+        print "Higher"
+    else:
+        print "Lower"

@@ -1,0 +1,10 @@
+# Ask away!
+
+variable1 = raw_input("What's your name?")
+
+variable2 = raw_input("How old are you?")
+
+variable3 = raw_input("Why don't you answer me??")
+
+print variable1, variable2, variable3
+

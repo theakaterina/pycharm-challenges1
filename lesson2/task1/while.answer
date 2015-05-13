@@ -1,0 +1,6 @@
+
+score = 0
+while score < 10:
+    print "Your score is", score, "- keep trying."
+    score += 1
+print "Congrats, you win!"
