@@ -1,3 +1,4 @@
+# Make every answer equal to True (there is more than one correct way to do it!)
 
 answer1 = "pie" == "pie"
 
