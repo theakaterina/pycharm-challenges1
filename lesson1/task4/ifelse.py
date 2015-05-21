@@ -2,9 +2,9 @@ bikes = 5
 people = 7
 
 if bikes == people:
-    print "Yes! Let's ride bikes"
+    print
 # Now you do the rest of the statements!
-elif bikes < people:
-    print "Damn. Not enough bikes"
-else:
-    print "Should we leave bikes behind? I can't decide."
+else if .....
+    print whatever you want to say!
+or else...
+    print whatever you want to say!

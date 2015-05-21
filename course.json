@@ -37,22 +37,15 @@
               "task_windows": [
                 {
                   "line": 3,
-                  "start": 4,
-                  "possible_answer": "i",
-                  "length": 1
-                },
-                {
-                  "line": 3,
                   "start": 7,
                   "possible_answer": "range(1, 10):",
                   "length": 1
                 },
                 {
-                  "line": 4,
-                  "start": 17,
-                  "hint": "lesson1task2file1_1",
-                  "possible_answer": "*\u003d i",
-                  "length": 1
+                  "line": 5,
+                  "start": 21,
+                  "possible_answer": "nine_factorial * i",
+                  "length": 5
                 }
               ]
             }
@@ -118,8 +111,26 @@
                 {
                   "line": 6,
                   "start": 0,
-                  "possible_answer": "elif bikes \u003c people:\n    print \"Damn. Not enough bikes\"\nelse:\n    print \"Should we leave bikes behind? I can\u0027t decide.\"",
-                  "length": 0
+                  "possible_answer": "elif bikes \u003c people:",
+                  "length": 13
+                },
+                {
+                  "line": 7,
+                  "start": 10,
+                  "possible_answer": "\"Damn. Not enough bikes\"",
+                  "length": 25
+                },
+                {
+                  "line": 8,
+                  "start": 0,
+                  "possible_answer": "else:",
+                  "length": 10
+                },
+                {
+                  "line": 9,
+                  "start": 10,
+                  "possible_answer": "\"Should we leave bikes behind? I can\u0027t decide.\"",
+                  "length": 25
                 }
               ]
             }
@@ -133,16 +144,42 @@
                 {
                   "line": 11,
                   "start": 0,
-                  "hint": "lesson1task5file1_1",
+                  "hint": "lesson1task5song_1",
                   "possible_answer": "for i in range(99, 0, -1):",
-                  "length": 21
+                  "length": 29
                 },
                 {
                   "line": 12,
-                  "start": 4,
-                  "hint": "lesson1task5file1_2",
-                  "possible_answer": "if i \u003e 2:\n        print i, lyric1, i, lyric2, i - 1, lyric3\n    elif i \u003d\u003d 2:\n        print i, lyric1, i, lyric2, i - 1, lyric4\n    else:\n        print i, lyric5, i, lyric6",
-                  "length": 41
+                  "start": 7,
+                  "hint": "lesson1task5song_2",
+                  "possible_answer": "i \u003e 2",
+                  "length": 44
+                },
+                {
+                  "line": 13,
+                  "start": 14,
+                  "hint": "lesson1task5song_3",
+                  "possible_answer": "i, lyric1, i, lyric2, i - 1, lyric3",
+                  "length": 45
+                },
+                {
+                  "line": 14,
+                  "start": 9,
+                  "hint": "lesson1task5song_4",
+                  "possible_answer": "i \u003d\u003d 2",
+                  "length": 40
+                },
+                {
+                  "line": 15,
+                  "start": 14,
+                  "possible_answer": "i, lyric1, i, lyric2, i - 1, lyric4",
+                  "length": 11
+                },
+                {
+                  "line": 17,
+                  "start": 14,
+                  "possible_answer": "i, lyric5, i, lyric6",
+                  "length": 22
                 }
               ]
             }

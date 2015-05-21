@@ -9,10 +9,10 @@ lyric6 = "bottle of beer. You take it down, pass it around, go to the store and 
 
 # Code goes here
 
-for i in range(99, 0, -1):
-    if i > 2:
-        print i, lyric1, i, lyric2, i - 1, lyric3
-    elif i == 2:
-        print i, lyric1, i, lyric2, i - 1, lyric4
+What do we want to loop over?
+    if we print the same lyrics until which number?:
+        print the lyrics and variables, seperated by commas
+    elif what other condition do we look out for?:
+        print more lyrics
     else:
-        print i, lyric5, i, lyric6
+        print the rest of the lyrics
