@@ -4,7 +4,7 @@
     <course>
       <option name="author" value="Thea Koutsoukis" />
       <option name="description" value="A couple of exercises to explore using loops and user input" />
-      <option name="name" value="Challenge Set 1" />
+      <option name="name" value="Problem Set 1" />
       <option name="lessons">
         <list>
           <Lesson>
@@ -1616,7 +1616,7 @@
         </list>
       </option>
       <option name="description" value="A couple of exercises to explore using loops and user input" />
-      <option name="name" value="Challenge Set 1" />
+      <option name="name" value="Problem Set 1" />
       <option name="author" value="Thea Koutsoukis" />
       <option name="myLessonsMap">
         <map>
